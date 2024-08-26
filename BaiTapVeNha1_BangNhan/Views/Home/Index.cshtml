@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Bảng Cửu Chương";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Class Math</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <hr />
+    <h2 style="color: deepskyblue">Welcome To The Class</h2>
+    <hr />
+    @for (int i = 1; i <= 9; i++)
+    {
+        <div class="section-title">Bảng nhân @i</div>
+        <table class="multiplication-table">
+            <thead>
+                <tr>
+                    <th>Phép nhân</th>
+                    <th>Kết quả</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int j = 1; j <= 10; j++)
+                {
+                    <tr>
+                        <td>@i x @j =</td>
+                        <td>@(i * j)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <!-- Đường gạch ngang giữa các bảng -->
+        <hr />
+    }
+    <caption>Bảng Cửu Chương - Tạo bởi Nguyễn Lê Anh Thư</caption>
+</div>
