@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|d:\\dntu\\3_years\\hk5-2024_2025\\laptrinhweb\\baitap\\github\\asp_web\\baitapvenha2_taocontroller\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C142BFBD-84F0-4D28-8952-D5976D6596E4}|BaiTapVeNha2_TaoController.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tuan02\\MayTinh.cshtml",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeToolTip": "Views\\Tuan02\\MayTinh.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:59:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Tuan02\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tuan02\\Index.cshtml",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Tuan02\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tuan02\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:47:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:28:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T03:44:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T03:35:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuan02Controller.cs",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Controllers\\Tuan02Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Tuan02Controller.cs",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Controllers\\Tuan02Controller.cs",
+              "RelativeToolTip": "Controllers\\Tuan02Controller.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:31:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DNTU\\3_Years\\HK5-2024_2025\\LapTrinhWeb\\BaiTap\\GitHub\\asp_web\\BaiTapVeNha2_TaoController\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:29:01.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

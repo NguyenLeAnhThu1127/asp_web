@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaiTapVeNha2_TaoController.props" />
+</Project>
